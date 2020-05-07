@@ -5,11 +5,11 @@
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Joseph Santarcangelo
 This repository contains all the resources and solution of the quizzes given and asked in IBM Data Science Professional Certification.
-I have done under coursera [Programming for Data Science with Python Nanodegree](https://www.coursera.org/professional-certificates/ibm-data-science).
+I have done under coursera [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
 
 The courses enlisted in this specialization are as follows:
 
-- [x] [__What is Data Science?](https://github.com/connectaditya/IBM-Data-Science-Professional-Certification/tree/master/What%20is%20Data%20Science).
+- [x] [What is Data Science?](https://github.com/connectaditya/IBM-Data-Science-Professional-Certification/tree/master/What%20is%20Data%20Science).
 
 - [x] __Open Source tools for Data Science__
 
@@ -26,3 +26,6 @@ The courses enlisted in this specialization are as follows:
 - [x] __Machine Learning with Python__
 
 - [x] __Applied Data Science Capstone__
+
+
+![Imgur](https://coursera-certificate-images.s3.amazonaws.com/U9B77Q3XLFSY)
